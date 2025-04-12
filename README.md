@@ -14,6 +14,9 @@ Aplicación de escritorio para Windows que permite descargar videos o audios de 
 - `yt-dlp`, `ffmpeg`, `aria2c`
 - PyInstaller (para empaquetar)
 
+## 🧠 Autor
+Rodrigo Lovaton (Dr. Dev) – 2025
+
 ## 📦 Compilar
 ```bash
 pyinstaller --onefile --noconsole --icon=assets/icono.ico src/turbo_yt.py
